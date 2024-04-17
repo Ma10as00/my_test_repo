@@ -1,0 +1,1 @@
+## Installation```stMetacello new	repository: 'github://Ma10as00/my_test_repo:main/src';	baseline: 'Test';	load```## Installation```stMetacello new	repository: 'github://Ma10as00/my_test_repo:main/src';	baseline: 'Something';	load```
